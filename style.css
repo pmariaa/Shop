@@ -1,0 +1,30 @@
+li {
+	list-style-type: none;
+}
+
+a {	
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #1E90FF;
+}
+
+img {
+	border: 0px solid #FFFFFF; outline: 4px solid #FFDAB9;
+}
+
+body {
+	background: #FFFFFF;
+}
+
+header {
+	background: #E6E6FA;
+}
+
+footer {
+	background: #E6E6FA;
+}
+
