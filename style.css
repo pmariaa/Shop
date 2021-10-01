@@ -1,0 +1,68 @@
+li {
+	list-style-type: none;
+}
+
+a {	
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #1E90FF;
+}
+
+header {
+	background: #E6E6FA;
+}
+
+img {
+	outline: 4px solid #FFDAB9;
+}
+
+body {
+	background: #FFFFFF;
+	margin: 5px
+	width: 1500px;
+}
+
+.Header {
+	height: 310px;
+	background: #E6E6FA;
+}
+
+.logo-menu {
+	display: flex;
+}
+
+.menu-item {
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 30px;
+}
+
+.menu {
+	margin-left: 1140px;
+}
+
+.Footer {
+	height: 110px;
+	background: #F0F8FF;
+}
+
+.about-product {
+	display: flex;
+}
+
+.description {
+	margin-left: 20px;
+}
+
+.Catalog {
+	display: flex;
+}
+
+.catalog-item {
+	margin-left: 10px;
+	margin-right: 95px;
+}
